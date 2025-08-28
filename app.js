@@ -1,4 +1,1 @@
-# New Project
-
-This is project created from local system.
-Created by shivani.
+console.log("Welcome to Shivani's project!");

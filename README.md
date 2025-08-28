@@ -1,3 +1,5 @@
 # New Project
-this project was created from local system .
-Created by shivani .
+
+This is a project created from the local system.
+
+Created by **Shivani**.
